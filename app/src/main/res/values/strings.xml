@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <array name="chooes">
+        <item>Alpha Option01</item>
+        <item>Beta Option02</item>
+        <item>Charlie Option03</item>
+    </array>
+</resources>
